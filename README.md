@@ -1,4 +1,4 @@
-# PwC-Power-BI-Job-SimulatPwC Switzerland Power BI Job Simulation
+# PwC Switzerland Power BI Job Simulation
 
 
  * Completed a job simulation where I strengthened my PowerBI skills to better
